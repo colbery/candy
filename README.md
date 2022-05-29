@@ -1,2 +1,2 @@
 # candy
-Simple Project
+https://colbery.github.io/candy/
